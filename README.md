@@ -1,0 +1,2 @@
+# Spotify-Web-Playback-API-Demo-ReactJS
+This application uses ReactJS and the Spotify API to mimic a Spotify music player within the browser.  The user will have to get their own access token which is linked in the application.  After being connected, the user can select "*USERNAME* 's Spotify Player" in the Spotify application to connect to the browser player.  The demo shows the artrist, track name, and album name.  The user can play, pause, or choose next track.
